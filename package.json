@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://alfaward.com/",
+    "private": true,
+    "scripts": {
+      "shorten": "netlify-shortener"
+    },
+    "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+    "license": "MIT",
+    "devDependencies": {
+      "netlify-shortener": "^1.0.1"
+    }
+  }
